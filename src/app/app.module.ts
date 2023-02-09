@@ -9,6 +9,7 @@ import { ContactpageComponent } from './pages/contactpage/contactpage.component'
 import { SignuppageComponent } from './pages/signuppage/signuppage.component';
 import { NavbarComponent } from './utils/navbar/navbar.component';
 import { FooterComponent } from './utils/footer/footer.component';
+import { CarouselComponent } from './pages/carousel/carousel.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { FooterComponent } from './utils/footer/footer.component';
     ContactpageComponent,
     SignuppageComponent,
     NavbarComponent,
-    FooterComponent
+    FooterComponent,
+    CarouselComponent
   ],
   imports: [
     BrowserModule,
