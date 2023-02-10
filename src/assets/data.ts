@@ -2,78 +2,88 @@ export const districts =[
     {
       "id":"1",
       "title":"trivandrum",
-      "image":"https://assets-news.housing.com/news/wp-content/uploads/2022/08/19025232/TRIVANDRUM-FEATURE-compressed.jpg"
+      "image":"./assets/images/trivandrum.jpg",
+      "button":"Explore",
     },
     {
       "id":"2",
       "title":"kollam",
-      "image":"https://assets-news.housing.com/news/wp-content/uploads/2022/08/19025232/TRIVANDRUM-FEATURE-compressed.jpg"
+      "image":"./assets/images/kollam.jpg",
+      "button":"Explore",
     },
     {
       "id":"3",
       "title":"pathanamthitta",
-      "image":"https://assets-news.housing.com/news/wp-content/uploads/2022/08/19025232/TRIVANDRUM-FEATURE-compressed.jpg"
+      "image":"./assets/images/pathanamthitta.jpg",
+       "button":"Explore",
     },
     {
       "id":"4",
       "title":"alapuzha",
-      "image":"https://assets-news.housing.com/news/wp-content/uploads/2022/08/19025232/TRIVANDRUM-FEATURE-compressed.jpg"
+      "image":"./assets/images/alappuzha.jpg",
+      "button":"Explore",
     },
     {
       "id":"5",
       "title":"kottayam",
-      "image":"https://assets-news.housing.com/news/wp-content/uploads/2022/08/19025232/TRIVANDRUM-FEATURE-compressed.jpg"
+      "image":"./assets/images/kottayam.jpg",
+      "button":"Explore",
     },
     {
       "id":"6",
       "title":"idukki",
-      "image":"https://assets-news.housing.com/news/wp-content/uploads/2022/08/19025232/TRIVANDRUM-FEATURE-compressed.jpg"
+      "image":"./assets/images/idukki.jpg",
+      "button":"Explore",
     },
     {
       "id":"7",
       "title":"ernakulam",
-      "image":"https://assets-news.housing.com/news/wp-content/uploads/2022/08/19025232/TRIVANDRUM-FEATURE-compressed.jpg"
+      "image":"./assets/images/ernakulam.jpg",
+      "button":"Explore",
     },
     {
       "id":"8",
       "title":"thrissur",
-      "image":"https://assets-news.housing.com/news/wp-content/uploads/2022/08/19025232/TRIVANDRUM-FEATURE-compressed.jpg"
+      "image":"./assets/images/thrissur.jpg",
+      "button":"Explore",
     },
     {
       "id":"9",
       "title":"palakadu",
-      "image":"https://assets-news.housing.com/news/wp-content/uploads/2022/08/19025232/TRIVANDRUM-FEATURE-compressed.jpg"
+      "image":"./assets/images/palakkad.jpg",
+      "button":"Explore",
     },
     {
       "id":"10",
       "title":"malapuram",
-      "image":"https://assets-news.housing.com/news/wp-content/uploads/2022/08/19025232/TRIVANDRUM-FEATURE-compressed.jpg"
+      "image":"./assets/images/malappuram.jpg",
+      "button":"Explore",
     },
     {
       "id":"11",
       "title":"kozhikode",
-      "image":"https://assets-news.housing.com/news/wp-content/uploads/2022/08/19025232/TRIVANDRUM-FEATURE-compressed.jpg"
+      "image":"./assets/images/kozhikode.jpg",
+      "button":"Explore",
     },
     {
       "id":"12",
       "title":"wayandu",
-      "image":"https://assets-news.housing.com/news/wp-content/uploads/2022/08/19025232/TRIVANDRUM-FEATURE-compressed.jpg"
+      "image":"./assets/images/wayanad.jpg",
+      "button":"Explore",
     },
    
     {
       "id":"13",
       "title":"kannur",
-      "image":"https://assets-news.housing.com/news/wp-content/uploads/2022/08/19025232/TRIVANDRUM-FEATURE-compressed.jpg",
+      "image":"./assets/images/kannur.jpg",
+      "button":"Explore",
     },
     {
       "id":"14",
       "title":"kasargode",
-      "image":"https://assets-news.housing.com/news/wp-content/uploads/2022/08/19025232/TRIVANDRUM-FEATURE-compressed.jpg"
-    },
-    {
-    
-    },
-    {},
+      "image":"./assets/images/kasargod.jpg",
+      "button":"Explore",
+    }
   ]
 
 

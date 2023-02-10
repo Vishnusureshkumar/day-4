@@ -10,4 +10,7 @@ export class HeroService {
   getData(){
     return districts
   }
+  getSingledistrict(id:any){
+    return districts[id]
+  }
 }

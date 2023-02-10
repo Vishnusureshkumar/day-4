@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { Router } from '@angular/router';
 import { HeroService } from 'src/app/hero.service';
 
 @Component({
@@ -7,6 +8,11 @@ import { HeroService } from 'src/app/hero.service';
   styleUrls: ['./districtpage.component.css']
 })
 export class DistrictpageComponent {
- constructor(private hero :HeroService){}
- districts=this.hero.getData()
+ 
+ constructor(private obj :HeroService, private router:Router){}
+ districts=this.obj.getData()
+ gotoHere(id:string){
+  localStorage.setItem('id',id)
+  this.router.navigate(['/single'])
+ }
 }

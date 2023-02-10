@@ -4,6 +4,7 @@ import { ContactpageComponent } from './pages/contactpage/contactpage.component'
 import { DistrictpageComponent } from './pages/districtpage/districtpage.component';
 import { HomepageComponent } from './pages/homepage/homepage.component';
 import { SignuppageComponent } from './pages/signuppage/signuppage.component';
+import { SingledistrictComponent } from './pages/singledistrict/singledistrict.component';
 
 const routes: Routes = [
   {
@@ -17,6 +18,9 @@ const routes: Routes = [
   },
   {
     path:'SignUP',component:SignuppageComponent
+  },
+  {
+    path:'Singledistrict',component:SingledistrictComponent
   },
   
   

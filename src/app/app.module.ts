@@ -10,6 +10,7 @@ import { SignuppageComponent } from './pages/signuppage/signuppage.component';
 import { NavbarComponent } from './utils/navbar/navbar.component';
 import { FooterComponent } from './utils/footer/footer.component';
 import { CarouselComponent } from './pages/carousel/carousel.component';
+import { SingledistrictComponent } from './pages/singledistrict/singledistrict.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { CarouselComponent } from './pages/carousel/carousel.component';
     SignuppageComponent,
     NavbarComponent,
     FooterComponent,
-    CarouselComponent
+    CarouselComponent,
+    SingledistrictComponent
   ],
   imports: [
     BrowserModule,
